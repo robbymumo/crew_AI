@@ -1,0 +1,6 @@
+#!C:\Users\HomePC\Documents\Projects\LangGraph\crewai\env\Scripts\python.exe
+import sys
+from financial_analyst_crew.main import run
+
+if __name__ == '__main__':
+    sys.exit(run())
